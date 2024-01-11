@@ -4,7 +4,10 @@
 
 关注公众号： **程序员王不二**，回复关键词  ：**图书馆** ，获取完整版源码
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
+
+# 基于SSM的图书馆管理系统
 
 ## 1、项目介绍
 
@@ -35,35 +38,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243737.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207092243737.jpg)
 
 ### 4.2 用户模块
 
-![用户-新书推荐页面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243104.jpg)
+![用户-新书推荐页面](https://www.codeshop.fun/Typora-Images/202207092243104.jpg)
 
-![用户-图书借阅](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243628.jpg)
+![用户-图书借阅](https://www.codeshop.fun/Typora-Images/202207092243628.jpg)
 
-![用户-当前借阅](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243015.jpg)
+![用户-当前借阅](https://www.codeshop.fun/Typora-Images/202207092243015.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-管理图书1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243583.jpg)
+![管理员-管理图书1](https://www.codeshop.fun/Typora-Images/202207092243583.jpg)
 
-![管理员新增图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243536.jpg)
+![管理员新增图书](https://www.codeshop.fun/Typora-Images/202207092243536.jpg)
 
-![管理员-编辑图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243935.jpg)
+![管理员-编辑图书](https://www.codeshop.fun/Typora-Images/202207092243935.jpg)
 
-![管理员-借阅管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243920.jpg)
+![管理员-借阅管理](https://www.codeshop.fun/Typora-Images/202207092243920.jpg)
 
-![管理员-借阅记查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207092243436.jpg)
+![管理员-借阅记查询](https://www.codeshop.fun/Typora-Images/202207092243436.jpg)
 
-## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词 ：**图书馆** ，获取完整版源码
 
 
 
